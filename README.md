@@ -69,7 +69,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```console
-$ composer require dunglas/digital-ocean-bundle symfony/http-client nyholm/psr7 guzzlehttp/promises
+composer require dunglas/digital-ocean-bundle symfony/http-client nyholm/psr7 guzzlehttp/promises
 ```
 
 #### Step 2: Enable the Bundle
